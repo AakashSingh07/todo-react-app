@@ -35,7 +35,7 @@ npm start
 
 ## 📸 Screenshots
 
-(Add your project screenshot here)
+![App Screenshot](public/screenshot.png)
 
 ---
 
