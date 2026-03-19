@@ -35,8 +35,7 @@ npm start
 
 ## 📸 Screenshots
 
-![App Screenshot](public/screenshot.png)
-
+![App Screenshot](public/Screenshot.png)
 ---
 
 ## 🌐 Live Demo
