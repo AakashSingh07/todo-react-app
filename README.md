@@ -44,7 +44,7 @@ npm start
 
 ## 🌐 Live Demo
 
-(Will add after deployment)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github)](https://aakashsingh07.github.io/todo-react-app/)
 
 ---
 
